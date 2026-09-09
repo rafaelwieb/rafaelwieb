@@ -20,8 +20,8 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelwieb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelwieb&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rafaelwieb&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rafaelwieb&layout=compact&theme=dark" alt="Most Used Languages" height="150"/>
 </div>
 
 ---
