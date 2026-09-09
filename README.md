@@ -28,8 +28,8 @@
 
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rafael-wiebbelling-4246b9333)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafaelws1/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-wiebbelling-4246b9333)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](www.instagram.com/rafaelws1/)
 
 <!--
 **rafaelwieb/rafaelwieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
